@@ -5,6 +5,7 @@
 An end-to-end analysis of the 2024–25 NBA season using **PostgreSQL** for data wrangling and **Tableau Public** for interactive visualization.
 
 ## 🔗 Live Dashboard
+![Dashboard Preview](images/dashboard.png)
 
 👉 **View the interactive Tableau dashboard**:  
 [https://public.tableau.com/views/](https://public.tableau.com/app/profile/mahdi.mahin/viz/NBA202425DataAnalyticsDashboardMahdiMahin/Dashboard1?publish=yes)

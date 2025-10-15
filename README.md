@@ -47,7 +47,6 @@ An end-to-end analysis of the 2024–25 NBA season using **PostgreSQL** for data
 - **Team Offense**: A few teams stand out with high PPG and strong FG% synergy.
 - **Prime Age**: Average peak contribution tends to cluster around **26–29**.
 
-*(Update this section with your actual findings once you finalize your numbers.)*
 
 ---
 
